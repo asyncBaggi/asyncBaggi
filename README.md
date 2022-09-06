@@ -1,4 +1,5 @@
 ### Hi there 👋
+![ok](https://komarev.com/ghpvc/?username=asyncBaggi&style=flat&color=blueviolet)
 
 <!--
 **asyncBaggi/asyncBaggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
